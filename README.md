@@ -15,6 +15,8 @@ SLAM testbed for stereo vision.
 
 ## Software
 
+* [Setup Git LFS](https://git-lfs.github.com/) to be able to pull the sample jpg files
+
 ## License
 
 Licensed under [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0)
